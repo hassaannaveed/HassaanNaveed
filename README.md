@@ -1,7 +1,7 @@
 ### Hi there!👋
 
 
-- 👦🏽 I am Hassaan Naveed
+- 👦🏽 I am Hassaan Naveed, based in Pakistan
 - 💻 I’m currently studying Software Engineering.
 - 🔨 My skills include html, css, javascript, c++ and a tiny bit of python
 - ⚡ I'm very passionate about different web technologies and artificial intelligence.
